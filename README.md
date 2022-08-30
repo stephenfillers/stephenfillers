@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephenfillers
-- 👀 I’m interested in JavaScript and UX
-- 🌱 I’m currently learning Angular and TypeScript
+- 👀 I’m interested in machine learning and serverless technology
+- 🌱 I’m currently working in Angular and AWS Amplify on the AWS Cloud
 
 <!---
 stephenfillers/stephenfillers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
